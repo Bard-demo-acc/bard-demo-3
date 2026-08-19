@@ -1,0 +1,257 @@
+= Apple Tart — Before and After
+:toc:
+
+This file shows the original (Before) and edited (After) versions of apple-tart.adoc side by side for easy comparison. The "After" column applies the changes you requested: specific sentence rewrites, standardized short imperatives, and the Method converted to explicit numbered steps and sub-steps.
+
+[cols="1,1", options="header"]
+|===
+| Before | After
+
+| [source,adoc]
+----
+= Apple Tart
+:toc:
+
+== At a Glance
+- Yield: Makes one 23 cm tart
+- Prep Time: ~30 minutes active (pastry) + time to slice apples
+- Chill Time: 30 minutes
+- Bake Time: 40 minutes
+- Oven Temperature: 190°C
+- Note: Times are approximate — see Method for sequencing.
+
+== Ingredients
+=== For the Pastry
+* 250 g plain flour
+* 125 g cold butter
+* 50 g caster sugar
+* 1 egg
+* 1–2 tablespoons cold water
+
+=== For the Filling
+* 5 medium cooking apples (or eating apples — see Notes)
+* 40 g caster sugar
+* 1 teaspoon ground cinnamon
+* 1 tablespoon lemon juice
+* 15 g butter
+
+=== For Finishing (Optional)
+* Extra caster sugar for sprinkling
+* Leftover pastry for decorations
+
+== Equipment
+=== Required
+* 23 cm tart tin
+* Mixing bowl
+* Rolling pin
+* Knife
+* Apple peeler or vegetable peeler
+* Baking paper
+* Wire rack
+* Pastry brush
+
+=== Optional
+* Food processor (for pastry)
+* Pastry cutter or bench scraper
+
+== Notes & Preparation Tips
+* Keep butter cold until you cut it into the flour.
+* Read the entire recipe before starting.
+* Recommended workflow: make pastry → chill pastry → prepare apples while pastry chills → prepare tin → assemble → bake.
+* Apple types: cooking apples give a softer, more acidic filling; eating apples give a sweeter result.
+
+== Method
+. Make the Pastry (about 10–15 minutes active)
+** Put the flour and sugar into a mixing bowl.
+** Cut the cold butter into small pieces and rub it into the flour with your fingertips until the mixture resembles breadcrumbs.
+** Beat the egg and add it to the mixture; mix until the pastry starts to come together.
+** Add 1–2 tablespoons cold water only if necessary (avoid adding too much).
+** Wrap the pastry and refrigerate for at least 30 minutes.
+** Tip: If the pastry is difficult to roll after chilling, leave it at room temperature for a few minutes.
+
+. Prepare Apples While Pastry Chills (about 10–15 minutes)
+** Peel and core the apples; slice them thinly and try to keep slices uniform for even cooking.
+** Put the apple slices into a bowl and add the sugar, cinnamon and lemon juice; mix gently to coat.
+** Note: Adjust sugar depending on apple sweetness.
+
+. Prepare Tart Tin (toward end of chilling)
+** Lightly grease the tin with butter.
+** Optionally place a circle of baking paper in the base to aid removal.
+
+. Roll Out and Fit Pastry (assembly)
+** Roll the chilled pastry on a lightly floured surface into a circle slightly larger than the tart tin.
+** Carefully place the pastry into the tin, press it into the base and sides, and trim any overhang.
+** Prick the base several times with a fork.
+** If using leftover pastry, cut shapes for decorations and reserve.
+
+. Assemble Filling
+** Arrange the prepared apple slices in an even layer over the pastry base.
+** Dot the apples with the 15 g butter.
+** Add pastry decorations if desired.
+
+. Bake
+** Preheat the oven to 190°C before baking.
+** Place the tart on the middle shelf and bake for about 40 minutes, until the pastry is golden and the apples are soft.
+** If the pastry browns too quickly, loosely cover with aluminium foil for the remainder of the baking time.
+** If the pastry is golden but the apples are still firm, continue baking covered until the apples are cooked through.
+
+. Rest and Finish
+** Remove the tart from the oven and leave it in the tin for about 15 minutes to settle.
+** Serve warm or at room temperature with cream, custard or vanilla ice cream.
+** If not serving soon, transfer to a wire rack to cool completely before refrigerating.
+
+== Finishing, Serving, and Storage
+* Serving: Warm or room temperature; pair with cream, custard or ice cream.
+* Storage: Keep at room temperature on the day it is made; cover leftovers and refrigerate if storing more than a day.
+* Reheat: Bring to room temperature before serving if refrigerated.
+
+== Troubleshooting & Tips
+* Pastry Cracks When Rolling: Let it rest a few minutes to soften, then continue rolling.
+* Pastry Shrinks During Baking: Often caused by stretching the pastry when lining the tin — chill pastry before baking and avoid stretching.
+* Pastry Becomes Difficult to Handle: Return it to the refrigerator for a few minutes to firm up.
+* Browning Too Fast: Cover with foil.
+* Timing Tip: Prepare apples while pastry chills to use downtime effectively.
+
+== Variations & Notes
+* Apple Varieties: Suggest a mix of tart and sweet apples for balanced flavor.
+* Make-Ahead: Pastry can be made and chilled earlier; apples can be prepared just before assembly.
+----
+
+| [source,adoc]
+----
+= Apple Tart
+:toc:
+
+== At a Glance
+- Yield: Makes one 23 cm tart
+- Prep Time: ~30 minutes active (pastry) + time to slice apples
+- Chill Time: 30 minutes
+- Bake Time: 40 minutes
+- Oven Temperature: 190°C
+- Note: Times are approximate — see Method for sequencing.
+
+== Ingredients
+=== For the Pastry
+* 250 g plain flour
+* 125 g cold butter
+* 50 g caster sugar
+* 1 egg
+* 1–2 tablespoons cold water
+
+=== For the Filling
+* 5 medium cooking apples (or eating apples — see Notes)
+* 40 g caster sugar
+* 1 teaspoon ground cinnamon
+* 1 tablespoon lemon juice
+* 15 g butter
+
+=== For Finishing (Optional)
+* Extra caster sugar for sprinkling
+* Leftover pastry for decorations
+
+== Equipment
+=== Required
+* 23 cm tart tin
+* Mixing bowl
+* Rolling pin
+* Knife
+* Apple peeler or vegetable peeler
+* Baking paper
+* Wire rack
+* Pastry brush
+
+=== Optional
+* Food processor (for pastry)
+* Pastry cutter or bench scraper
+
+== Notes & Preparation Tips
+* Keep butter cold until you cut it into the flour.
+* Read the entire recipe before starting.
+* Recommended workflow: make pastry → chill pastry → prepare apples while pastry chills → prepare tin → assemble → bake.
+* Apple types: cooking apples give a softer, more acidic filling; eating apples give a sweeter result.
+
+== Method
+
+1. Make the Pastry (about 10–15 minutes active)
+
+1.1 Put the flour and sugar into a mixing bowl.
+
+1.2 Cut the cold butter into small pieces and rub it into the flour with your fingertips until the mixture resembles breadcrumbs.
+
+1.3 Beat the egg and add it to the mixture; mix until the pastry starts to come together.
+
+1.4 Add 1–2 tablespoons cold water only if necessary (avoid adding too much).
+
+1.5 Wrap the pastry and refrigerate it for at least 30 minutes.
+
+1.6 Tip: If you find the pastry difficult to roll after chilling, leave it at room temperature for a few minutes.
+
+2. Prepare the Apples While the Pastry Chills (about 10–15 minutes)
+
+2.1 Peel and core the apples.
+
+2.2 Slice the apples thinly and try to keep the slices uniform for even cooking.
+
+2.3 Put the apple slices into a bowl and add the sugar, cinnamon and lemon juice; mix gently to coat.
+
+2.4 Taste and adjust the sugar depending on the apples' sweetness.
+
+3. Prepare the Tart Tin (toward the end of chilling)
+
+3.1 Lightly grease the tin with butter.
+
+3.2 Optionally place a circle of baking paper in the base to make the tart easier to remove.
+
+4. Roll Out and Fit Pastry (assembly)
+
+4.1 Roll the chilled pastry on a lightly floured surface into a circle slightly larger than the tart tin.
+
+4.2 Carefully place the pastry into the tin, press it into the base and sides, and trim any overhang.
+
+4.3 Prick the base several times with a fork.
+
+4.4 If using leftover pastry, cut shapes for decorations and reserve.
+
+5. Assemble Filling
+
+5.1 Arrange the apple slices you prepared in an even layer over the pastry base.
+
+5.2 Dot the apples with the 15 g butter.
+
+5.3 Add pastry decorations if desired.
+
+6. Bake
+
+6.1 Preheat the oven to 190°C.
+
+6.2 Place the tart on the middle shelf and bake for about 40 minutes, until the pastry is golden and the apples are soft.
+
+6.3 If the pastry browns too quickly, loosely cover the tart with aluminium foil for the remainder of the baking time.
+
+6.4 If the pastry is golden but the apples are still firm, cover the tart and continue baking until the apples are cooked through.
+
+7. Rest and Finish
+
+7.1 Remove the tart from the oven and leave it in the tin for about 15 minutes to settle.
+
+7.2 Serve warm or at room temperature with cream, custard or vanilla ice cream.
+
+7.3 If not serving soon, transfer the tart to a wire rack to cool completely before refrigerating.
+
+== Finishing, Serving, and Storage
+* Serving: Warm or room temperature; pair with cream, custard or ice cream.
+* Storage: Keep the tart at room temperature on the day you make it; cover leftovers and refrigerate if you will store them for more than one day.
+* Reheat: Bring to room temperature before serving if refrigerated.
+
+== Troubleshooting & Tips
+* Pastry Cracks When Rolling: Let it rest a few minutes to soften, then continue rolling.
+* Pastry Shrinks During Baking: This usually happens when you stretch the pastry while lining the tin — chill the pastry before baking and avoid stretching.
+* Pastry Becomes Difficult to Handle: Return the pastry to the refrigerator for a few minutes to firm up.
+* Browning Too Fast: Cover the tart with aluminium foil.
+* Timing Tip: Prepare apples while pastry chills to use downtime effectively.
+
+== Variations & Notes
+* Apple Varieties: Suggest a mix of tart and sweet apples for balanced flavor.
+* Make-Ahead: Pastry can be made and chilled earlier; apples can be prepared just before assembly.
+----
+|===
